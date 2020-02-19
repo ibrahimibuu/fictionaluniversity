@@ -1,0 +1,8 @@
+[16-Feb-2020 09:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_url() in C:\Users\ramle\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php:78
+Stack trace:
+#0 C:\Users\ramle\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(98): include()
+#1 C:\Users\ramle\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\ramle\\...')
+#2 C:\Users\ramle\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\ramle\\...')
+#3 {main}
+  thrown in C:\Users\ramle\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 78
+[16-Feb-2020 09:39:26 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\ramle\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 78
